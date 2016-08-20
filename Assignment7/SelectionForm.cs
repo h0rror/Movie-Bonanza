@@ -41,7 +41,6 @@ namespace MovieBonanza
         }
         /*
         * <summary>
-        * This event handler opens the order form 
         * </summary>
         * @method NextBtn_Click
         */

@@ -12,7 +12,7 @@ namespace MovieBonanza
 {
     /*
     * <summary>
-    * This class contains the SplashForm.
+    * This class initializes the SplashForm.
     * </summary>
     * @class SplashForm
     */
